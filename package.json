@@ -1,0 +1,16 @@
+{
+  "name": "@henderea/henderea-utils",
+  "version": "1.0.0",
+  "description": "utils.henderea.com",
+  "main": "index.js",
+  "repository": "git@github.com:henderea/henderea-utils.git",
+  "author": "Eric Henderson <henderea@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@henderea/middleware-handler": "^1.0.0",
+    "cors": "^2.8.5"
+  },
+  "dependencies": {
+    "request-ip": "^2.1.3"
+  }
+}
